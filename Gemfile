@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'chromedriver-helper'
+gem 'data_magic'
+gem 'page-object', '~> 2.0'
+gem 'rake'
+gem 'require_all'
+gem 'rspec'
+gem 'selenium-webdriver'
